@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import Footer from './components/Footer';
-import './styles/App.css';
+import './components/styles/App.css';
 
 function App() {
   return (
@@ -13,3 +13,4 @@ function App() {
 }
 
 export default App;
+

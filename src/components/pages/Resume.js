@@ -1,5 +1,5 @@
 import React from 'react';
-import Resume from '../assets/Akram, Irene Resume.pdf';
+import ResumePDF from '../assets/Akram, Irene Resume.pdf';
 import '../styles/Resume.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDownload } from '@fortawesome/free-solid-svg-icons';
@@ -10,7 +10,7 @@ export default function Resume() {
       <h1>Resume</h1>
       <div className="download">
         <h2>Download Resume</h2>
-        <a href={Resume} download><FontAwesomeIcon icon={faDownload} /> Download</a>
+        <a href={ResumePDF} download><FontAwesomeIcon icon={faDownload} /> Download</a>
       </div>
       <div>
         <h3 className="front">Front-End Proficiencies</h3>
