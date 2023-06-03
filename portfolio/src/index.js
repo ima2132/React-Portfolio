@@ -3,13 +3,13 @@ import ReactDOM from 'react-dom';
 import App from './App';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { library } from '@fortawesome/fontawesome-svg-core';
-import { faLinkedinIn, faGithub, faEnvelope, faDownload } from '@fortawesome/free-solid-svg-icons';
-import { fab } from '@fortawesome/free-brands-svg-icons';
+import { library } from '@fortawesome/fontawesome-svg-core'
+import { faLinkedinIn, faGithub } from '@fortawesome/free-brands-svg-icons'
+import { faEnvelope } from '@fortawesome/sharp-solid-svg-icons'
 import './index.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
-library.add(fab, faLinkedinIn, faGithub, faEnvelope, faDownload);
+
+library.add(faLinkedinIn, faGithub, faEnvelope, faDownload);
 
 ReactDOM.render(
   <React.StrictMode>
