@@ -34,6 +34,14 @@ To learn more about me, you can click the deployed link and browse through deplo
 
 The following images show my portfolio:
 
+<img width="1440" alt="Screenshot 2023-06-04 at 7 02 22 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/5f096815-4641-4b0c-8ca1-ba267a83b0cd">
+
+<img width="1440" alt="Screenshot 2023-06-04 at 7 02 41 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/3ee5280f-7f3e-4e91-8da6-1f5765abb402">
+
+
+<img width="1440" alt="Screenshot 2023-06-04 at 7 02 53 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/bc385ef6-c42c-4640-b4a2-f7d023bed8ed">
+
+<img width="1440" alt="Screenshot 2023-06-04 at 7 04 01 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/385f00e8-45c9-47ab-a819-5a5a558a3023">
 
 
 
