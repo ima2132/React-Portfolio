@@ -1,6 +1,23 @@
-
-
 .footer {
-    font-family: 'Catamaran', sans-serif;
-}
-
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .social-links {
+    margin-top: 10px;
+  }
+  
+  .social-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #ff0081;
+    font-size: 16px;
+    margin-right: 20px; /* Increase margin-right for more spacing */
+    text-decoration: none;
+  }
+  
+  .social-link:hover {
+    color: #010081;
+  }
+  

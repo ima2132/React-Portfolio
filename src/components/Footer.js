@@ -7,18 +7,20 @@ import './styles/Footer.css';
 export default function Footer() {
   return (
     <footer className="footer">
-      <a href="https://github.com/ima2132">
-        <FontAwesomeIcon icon={faGithub} />
-        GitHub
-      </a>
-      <a href="https://www.linkedin.com/in/irene-akram-a384141b2/">
-        <FontAwesomeIcon icon={faLinkedinIn} />
-        LinkedIn
-      </a>
-      <a href="mailto:ima2132@columbia.edu">
-        <FontAwesomeIcon icon={faEnvelope} />
-        Email
-      </a>
+      <div className="social-links">
+        <a href="https://github.com/ima2132" className="social-link">
+          <FontAwesomeIcon icon={faGithub} />
+           GitHub
+        </a>
+        <a href="https://www.linkedin.com/in/irene-akram-a384141b2/" className="social-link">
+          <FontAwesomeIcon icon={faLinkedinIn} />
+           LinkedIn
+        </a>
+        <a href="mailto:ima2132@columbia.edu" className="social-link">
+          <FontAwesomeIcon icon={faEnvelope} />
+           Email
+        </a>
+      </div>
     </footer>
   );
 }
