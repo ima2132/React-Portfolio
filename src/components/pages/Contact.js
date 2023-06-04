@@ -3,7 +3,6 @@ import { validateEmail } from "../../utils/helpers";
 import '../styles/Contact.css';
 
 
-
 export default function Contact() {
     const [formData, setFormData] = useState({ name: "", email: "", message: ""});
     const [errorMessage, setErrorMessage] = useState("");
@@ -25,7 +24,7 @@ export default function Contact() {
           return;
         }
 
-        if (!validateEmail(e.target.email)) {
+        if (!validateEmail(email)) {
           setFormSubmissionMessage("");
           setErrorMessage("Invalid Email. Please try again.");
           return;
@@ -33,7 +32,7 @@ export default function Contact() {
 
         setFormData({ name: "", email: "", message: ""});
         setErrorMessage("");
-        setFormSubmissionMessage(`Thank you ${name} for reaching out.`);
+        setFormSubmissionMessage(`Thank you ${name} for reaching out!`);
     };
 
     return ( 
