@@ -25,7 +25,7 @@ export default function Contact() {
           return;
         }
 
-        if (!validateEmail(email)) {
+        if (!validateEmail(e.target.email)) {
           setFormSubmissionMessage("");
           setErrorMessage("Invalid Email. Please try again.");
           return;

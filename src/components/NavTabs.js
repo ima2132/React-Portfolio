@@ -9,7 +9,7 @@ function NavTabs({ currentPage, handlePageChange }) {
 
   return (
     <nav className="navbar sticky-top" style={{ backgroundColor: 'transparent', height: '80px', width: '100%', lineHeight: '40px', position: 'relative', borderBottom: 'none' }}>
-      <h3 className="navbar-name" style={{ position: 'absolute', top: '19px', left: '11px', fontWeight: 'bold', fontSize: '35px' }}>IRENE AKRAM</h3>
+      <h3 className="navbar-name" style={{ position: 'absolute', top: '20px', left: '11px', fontWeight: 'bold', fontSize: '35px' }}>IRENE AKRAM</h3>
 
       <ul className="nav nav-tabs" style={{ display: 'flex', justifyContent: 'center', width: '100%' }}>
         <li className="nav-item">
