@@ -12,8 +12,8 @@
     align-items: center;
     justify-content: center;
     color: #ff0081;
-    font-size: 16px;
-    margin-right: 20px; /* Increase margin-right for more spacing */
+    font-size: 30px; /* increased the font size for bigger icons */
+    margin-right: 50px; /* increased margin-right for more spacing */
     text-decoration: none;
   }
   

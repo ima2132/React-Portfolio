@@ -1,39 +1,52 @@
 .p-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(3, 1fr);
-    grid-gap: 20px;
-  }
-  
-  .card-grid {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-color: #f0f0f0;
-    padding: 20px;
-    border-radius: 4px;
-    text-decoration: none;
-    color: #333;
-  }
-  
-  .card-grid:hover {
-    background-color: #fdffff
-  }
-  .p-img {
-    max-width: 90%;
-    height: auto;
-    border-radius: 4px;
-  }
-  
-  .card-grid {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  grid-gap: 20px;
+}
+
+.card-grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #333;
+}
+
+.card-grid:hover {
+  background-color: #fdffff
+}
+
+.p-img {
+  max-width: 90%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.card-grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
 .card-link {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-    color: #010081;
-    font-weight: bold;
+  font-family: 'Press Start 2P', 'cursive';
+  font-size: 15px;
+  padding: 10px;
+  margin-top: 20px;
+  color: #010081;
+  text-decoration: none; /* Remove underlines */
+}
+
+.card-link:hover {
+  text-decoration: none; /* Remove underlines on hover */
+}
+
+.github-icon {
+  font-size: 20px;
+  color: #010081;
+  margin-top: 10px;
 }
