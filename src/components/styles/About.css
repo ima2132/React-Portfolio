@@ -2,6 +2,7 @@
   font-family: 'Press Start 2P', 'cursive';
     font-size: 15px;
     color: #010081;
+  
   }
   
   h1#about {
@@ -21,10 +22,11 @@
   }
   
   .intro { /* keeps .my-5 centered */
-    font: sans-serif;
     text-align: center;
     margin-top: 20px;
     margin-left: 240px; 
-    margin-right: 20px;
+    margin-right: 50px;
+    padding: 20px;
+    line-height: 2.5;
   }
   
