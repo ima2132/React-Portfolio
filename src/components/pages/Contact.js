@@ -2,6 +2,8 @@ import React, { useState } from "react";
 import { validateEmail } from "../../utils/helpers";
 import '../styles/Contact.css';
 
+
+
 export default function Contact() {
     const [formData, setFormData] = useState({ name: "", email: "", message: ""});
     const [errorMessage, setErrorMessage] = useState("");
@@ -37,7 +39,7 @@ export default function Contact() {
     return ( 
         <div>
             <div>
-                <h1>Contact Me!</h1>
+                <h1>Contact Me</h1>
                 <form className="contact-container">
                     <div className="form-group">
                         <label htmlFor="name">Name</label>

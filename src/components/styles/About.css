@@ -1,0 +1,32 @@
+
+.my-5 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #010081;
+    font-weight: bold;
+  }
+  
+  h1#about {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color: #010081;
+    font-weight: bold;
+  }
+      
+  .me {
+    position: absolute;
+    top: 90px; /* adjusted this value to match the height of your navbar */
+    left: 0;
+    margin-left: 20px;
+    width: 200px; 
+    height: auto; /* maintains the aspect ratio of the image */
+  }
+  
+  .intro { /* keeps .my-5 centered */
+    font: sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 240px; 
+    margin-right: 20px;
+  }
+  

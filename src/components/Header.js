@@ -32,7 +32,7 @@ function PortfolioContainer() {
   return (
     <div>
       <header className="header">
-        <h1>Irene Akram</h1>
+        <h1></h1>
         <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       </header>
       {renderPage()}

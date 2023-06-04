@@ -8,7 +8,7 @@ const Project = ({ projects }) => {
         <div className="card p-grid-item" key={project.id}>
             <img className="p-image" src={project.img} alt={project.title}></img>  
             <a href={project.deployed} className="card-link">{project.title}</a>
-            <a href={project.github} className="card-link"><FontAwesomeIcon icon="fa-brands fa-github" /></a>
+            <a href={project.github} className="card-link"><FontAwesomeIcon icon="Fa-Github" /></a>
         </div> 
     );
 

@@ -7,10 +7,10 @@ import { faDownload } from '@fortawesome/free-solid-svg-icons';
 export default function Resume() {
   return (
     <section className="resume">
-      <h1>Resume</h1>
+      <h1></h1>
       <div className="download">
-        <h2>Download Resume</h2>
-        <a href={ResumePDF} download><FontAwesomeIcon icon={faDownload} /> Download</a>
+        <h2></h2>
+        <a href={ResumePDF} download><FontAwesomeIcon icon={faDownload} /> Download Resume</a>
       </div>
       <div>
         <h3 className="front">Front-End Proficiencies</h3>
