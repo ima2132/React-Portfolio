@@ -45,4 +45,3 @@ If you would like to contact me for more information, please click the "Contact"
 
 ## Deployed URL
 
-https://ima2132.github.io/React-Portfolio/ 
