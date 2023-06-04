@@ -39,7 +39,7 @@ export default function Contact() {
     return ( 
         <div>
             <div>
-                <h1>Contact Me</h1>
+            <h1 className="contact">Contact Me</h1>
                 <form className="contact-container">
                     <div className="form-group">
                         <label htmlFor="name">Name</label>
@@ -53,7 +53,7 @@ export default function Contact() {
                         <label htmlFor="message">Message</label>
                         <textarea value={formData.message} name="message" onChange={handleInputChange} type="text" className="form-control" rows="3"></textarea>
                     </div>
-                    <button type="submit" onClick={handleFormSubmit} className="btn btn-primary mb-2">Submit</button>
+                    <button type="submit" onClick={handleFormSubmit} className="button">Submit</button>
                 </form>
             </div>
             <div className="message">

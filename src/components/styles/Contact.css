@@ -1,4 +1,15 @@
-form {
+.contact {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 35px;
+        color: #010081;
+        font-weight: bold;
+      }
+
+ .contact-container {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: #010081;
+
     margin: 0 auto;
     width: 500px;
     padding: 10px;
@@ -6,10 +17,6 @@ form {
     border-radius: 20px;
   }
   
-  label {
-    display: inline-block;
-    width: 100px;
-  }
   
   input,
   textarea {
@@ -18,15 +25,12 @@ form {
     border: 1px solid #4F4846;
   }
   
-  textarea {
-    vertical-align: top;
-    height: 60px;
-  }
   
   button {
     height: 40px;
     width: 120px;
     background-color: #ff0081;
     color: #FDF8F5;
+    font-size: 12px; 
   }
   
