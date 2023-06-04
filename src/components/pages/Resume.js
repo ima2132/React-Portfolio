@@ -44,7 +44,7 @@ export default function Resume() {
             <span className="badge badge-primary badge-pill"></span>
           </li>
           <li className="list-group-item d-flex justify-content-between align-items-center">
-            Jest
+            MySQL
             <span className="badge badge-primary badge-pill"></span>
           </li>
         </ul>
