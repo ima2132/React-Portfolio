@@ -24,10 +24,16 @@ To initiate the application locally, use the following command:
 
 `npm start`
 
+* Alternatively, you can click on the link listed below to access my portfolio: 
+
+https://ima2132.github.io/React-Portfolio/
+
 ## Usage
 The main objective of this project is to demonstrate your proficiency in `React`. This portfolio essentially functions as a digital resume, allowing you to showcase deployed projects and technical skills.
 
-To learn more about me, you can click the deployed link and browse through deployed applications I have created. My GitHub and Linkedin are also listed. 
+To learn more about me, you can click the deployed link and browse through deployed applications I have created: 
+
+https://ima2132.github.io/React-Portfolio/ 
 
 
 ## Screenshots 
