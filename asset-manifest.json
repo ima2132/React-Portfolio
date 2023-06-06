@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.559226f5.css",
-    "main.js": "/React-Portfolio/static/js/main.40c44a9d.js",
+    "main.css": "/React-Portfolio/static/css/main.55e9c124.css",
+    "main.js": "/React-Portfolio/static/js/main.f113399b.js",
     "static/media/coding quiz.png": "/React-Portfolio/static/media/coding quiz.688f0f9594ec043e6304.png",
     "static/media/travel hub.jpeg": "/React-Portfolio/static/media/travel hub.61c142e1cf158d5365f4.jpeg",
     "static/media/team profile generator.png": "/React-Portfolio/static/media/team profile generator.9c77e35fe1d8aa446be8.png",
@@ -10,12 +10,16 @@
     "static/media/work day scheduler.png": "/React-Portfolio/static/media/work day scheduler.953580689759337cdefc.png",
     "static/media/weather buddy.png": "/React-Portfolio/static/media/weather buddy.538c517b483115f46640.png",
     "static/media/Akram, Irene Resume.pdf": "/React-Portfolio/static/media/Akram, Irene Resume.cc65555cd0d460ac4954.pdf",
+    "static/media/ms_sans_serif.woff": "/React-Portfolio/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
+    "static/media/ms_sans_serif_bold.woff": "/React-Portfolio/static/media/ms_sans_serif_bold.9fbe71248995f1c639d4.woff",
+    "static/media/ms_sans_serif.woff2": "/React-Portfolio/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/React-Portfolio/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
     "index.html": "/React-Portfolio/index.html",
-    "main.559226f5.css.map": "/React-Portfolio/static/css/main.559226f5.css.map",
-    "main.40c44a9d.js.map": "/React-Portfolio/static/js/main.40c44a9d.js.map"
+    "main.55e9c124.css.map": "/React-Portfolio/static/css/main.55e9c124.css.map",
+    "main.f113399b.js.map": "/React-Portfolio/static/js/main.f113399b.js.map"
   },
   "entrypoints": [
-    "static/css/main.559226f5.css",
-    "static/js/main.40c44a9d.js"
+    "static/css/main.55e9c124.css",
+    "static/js/main.f113399b.js"
   ]
 }
