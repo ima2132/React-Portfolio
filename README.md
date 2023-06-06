@@ -11,6 +11,7 @@
 ## Description
 For this challenge, I was once again tasked with creating a portfolio. There are several motives behind this assignment. The primary goal of this project is to create a distinctive portfolio that highlights your proficiency in `React` and showcases your deployed projects. This significantly distinguishes you from other developers who may not be using the latest technologies for their portfolios. 
 
+The design for this portfolio was inspired by Windows '98, which also happens to be my birth year. This is my way of incorporating my essence into this portfolio. 
 ## Installation 
 To access this project on your local machine, start by cloning the repository. You will then need to install dependencies in order to use the application.
 
@@ -42,9 +43,11 @@ The following images show my portfolio:
 
 <img width="1440" alt="Screenshot 2023-06-06 at 4 13 18 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/386fd24e-424f-4135-ba08-e156df6b7d91">
 
-<img width="1439" alt="Screenshot 2023-06-06 at 4 13 44 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/1ca39224-474a-44e9-a298-6533303d193d">
+<img width="1440" alt="Screenshot 2023-06-06 at 4 16 30 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/50d06f36-b948-4781-9a42-c99c6f405167">
 
-<img width="1440" alt="Screenshot 2023-06-06 at 4 13 58 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/e95dedf2-c4e0-4cf8-8298-411dfb166062">
+
+<img width="1440" alt="Screenshot 2023-06-06 at 4 17 14 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/64e9b87e-0cec-4939-8702-5da2eddc18fc">
+
 
 
 <img width="1440" alt="Screenshot 2023-06-04 at 7 04 01 PM" src="https://github.com/ima2132/React-Portfolio/assets/117132129/385f00e8-45c9-47ab-a819-5a5a558a3023">
