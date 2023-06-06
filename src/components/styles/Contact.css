@@ -1,35 +1,50 @@
 .contact {
-    font-family: 'Press Start 2P', 'cursive';
-    font-size: 30px;
-    color: #010081;
-    padding: 20px;
-      }
+  font-family: 'Press Start 2P', 'cursive';
+  font-size: 30px;
+  color: #010081;
+  padding: 20px;
+}
 
- .contact-container {
-    font-family: 'Press Start 2P', 'cursive';
-    font-size: 15px;
-    color: #010081;
-    margin: 0 auto;
-    width: 500px;
-    padding: 12px;
-    border: 5px solid #010081;
-    border-radius: 20px;
-  }
+.contact-container {
+  font-family: 'Press Start 2P', 'cursive';
+  font-size: 15px;
+  color: #010081;
+  margin: 0 auto;
+  width: 500px;
+  padding: 12px;
+  border: 5px solid #010081;
+  border-radius: 20px;
+}
+
+.contact-container label {
+  font-family: 'Press Start 2P', 'cursive';
+  padding: 6px;
+}
+
+.contact-container input[type="text"],
+.contact-container input[type="email"],
+.contact-container textarea {
+  box-sizing: border-box;
+  width: 100%;
+  border: 1px solid #4F4846;
+  padding: 6px;
+  margin-bottom: 10px;
+}
+
+.contact-container button {
+  height: 40px;
+  width: 120px;
+  background-color: #ff0081;
+  color: #FDF8F5;
+  font-size: 12px;
+  font-family: 'Press Start 2P', 'cursive';
   
-  
-  input,
-  textarea {
-    box-sizing: border-box;
-    width: 300px;
-    border: 1px solid #4F4846;
-  }
-  
-  
-  button {
-    height: 40px;
-    width: 120px;
-    background-color: #ff0081;
-    color: #FDF8F5;
-    font-size: 12px; 
-  }
-  
+}
+
+.message {
+  font-family: 'Press Start 2P', 'cursive';
+  font-size: 15px;
+  color: #010081;
+  margin-top: 10px;
+}
+
