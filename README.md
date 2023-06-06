@@ -11,7 +11,7 @@
 ## Description
 For this challenge, I was once again tasked with creating a portfolio. There are several motives behind this assignment. The primary goal of this project is to create a distinctive portfolio that highlights your proficiency in `React` and showcases your deployed projects. This significantly distinguishes you from other developers who may not be using the latest technologies for their portfolios. 
 
-The design for this portfolio was inspired by Windows '98, which also happens to be my birth year. This is my way of incorporating my essence into this portfolio. 
+The design for this project was inspired by Windows '98, which also happens to be my birth year. This is my way of incorporating my essence into this portfolio. 
 ## Installation 
 To access this project on your local machine, start by cloning the repository. You will then need to install dependencies in order to use the application.
 
