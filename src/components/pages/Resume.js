@@ -1,5 +1,5 @@
 import React from 'react';
-import ResumePDF from '../assets/Akram, Irene Resume.pdf';
+import ResumePDF from '../assets/Akram, Irene Resume 1.0.pdf';
 import '../styles/Resume.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faDownload } from '@fortawesome/free-solid-svg-icons';
